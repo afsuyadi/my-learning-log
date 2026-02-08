@@ -34,11 +34,9 @@ Example commit messages:
 
 | Metric | Value |
 |------|------|
-| Start Date | YYYY-MM-DD |
-| Total Learning Days | XX days |
-| Current Streak | X days 🔥 |
-| Longest Streak | X days |
-| Focus Areas | React, Python, System Design |
+| Start Date | 2026-01-01 |
+| Total Learning Days | 38 days |
+| Focus Areas | Frontend, Backend, Deployment, System Design |
 
 ---
 
@@ -80,6 +78,7 @@ Example commit messages:
 - Confusion is a signal, not a failure
 - Rebuilding without tutorials is mandatory
 - Consistency beats intensity
+- Don't rush out and patience is the key
 
 ---
 
