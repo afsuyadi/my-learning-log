@@ -30,13 +30,23 @@ Example commit messages:
 
 ---
 
-## 📊 Learning Dashboard
+## 📊 Target Dashboard
 
-| Metric | Value |
-|------|------|
-| Start Date | 2026-01-01 |
-| Total Learning Days | 38 days |
-| Focus Areas | Frontend, Backend, Deployment, System Design |
+| Year | Month | Deliverables |
+|------|------|------|
+| 2026 | January | - |
+| 2026 | February | MIN Project : PRD, ERD, API Contract, Crafted Monorepo |
+| 2026 | March | ❓ |
+| 2026 | April | ❓ |
+| 2026 | May | ❓ |
+| 2026 | June | ❓ |
+| 2026 | July | ❓ |
+| 2026 | August | ❓ |
+| 2026 | September | ❓ |
+| 2026 | October | ❓ |
+| 2026 | November | ❓ |
+| 2026 | December | ❓ |
+
 
 ---
 
